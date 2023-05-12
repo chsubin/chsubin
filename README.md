@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm subin, A growing backend developer from Korea.</h1>
 <h3 align="center">It's not thoughts but actions that define you.</h3>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsb12)](https://solved.ac/cjsb12)
+
+
 - 🔭 One of My Projects is [온라인 과일 쇼핑몰](https://github.com/chsubin/springProject)
 - 👯 Another is [호텔예약 프로그램](https://github.com/chsubin?tab=repositories)
 <br/><br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="40%"></img>
@@ -21,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chsubin&show_icons=true&locale=en" alt="chsubin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chsubin&" alt="chsubin" /></p>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsb12)](https://solved.ac/cjsb12)
