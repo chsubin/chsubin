@@ -12,7 +12,6 @@
 - 📝 I regularly write articles on [https://blog.naver.com/sbchoe21](https://blog.naver.com/sbchoe21)
 
 - 📫 How to reach me **sbchoe21@gmail.com**
-<h3 align="left">Connect with me: **sbchoe21@gmail.com**</h3>
 <p align="left">
 </p>
 
