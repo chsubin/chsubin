@@ -10,7 +10,9 @@
 &nbsp;
 &nbsp;<img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="40%"></img>
 <br/>
-- [알고리즘 공부](https://blog.naver.com/sbchoe21/223075657910)
+- 📝 I regularly write articles on [https://blog.naver.com/sbchoe21/223082936634](https://blog.naver.com/sbchoe21/223082936634)
+
+- 📫 How to reach me **sbchoe21@gmail.com**
 <h3 align="left">Connect with me: **sbchoe21@gmail.com**</h3>
 <p align="left">
 </p>
