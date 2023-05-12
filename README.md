@@ -2,7 +2,6 @@
 <h3 align="center">It's not thoughts but actions that define you.</h3>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsb12)](https://solved.ac/cjsb12)
 
 - 🔭 One of My Projects is [온라인 과일 쇼핑몰](https://github.com/chsubin/springProject)
 - 👯 Another is [호텔예약 프로그램](https://github.com/chsubin?tab=repositories)
