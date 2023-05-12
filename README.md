@@ -22,5 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chsubin&show_icons=true&locale=en&layout=compact" alt="chsubin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chsubin&show_icons=true&locale=en" alt="chsubin" /></p>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsb12)](https://solved.ac/cjsb12)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chsubin&" alt="chsubin" /></p>
