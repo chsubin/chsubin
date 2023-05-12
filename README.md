@@ -10,9 +10,8 @@
 &nbsp;
 &nbsp;<img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="40%"></img>
 <br/>
-- 📫 How to reach me **sbchoe21@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **sbchoe21@gmail.com**</h3>
 <p align="left">
 </p>
 
