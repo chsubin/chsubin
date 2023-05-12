@@ -2,10 +2,10 @@
 <h3 align="center">It's not thoughts but actions that define you.</h3>
 
 - 🔭 One of My Projects is [온라인 과일 쇼핑몰](http://49.142.157.251:9090/green2209S_20/)
- <br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="30%"></img>
+ <br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="40%"></img>
 
 - 👯 Another is [호텔예약 프로그램](http://49.142.157.251:9090/green2209J_20/main.tel)
- <br/><img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="30%"></img>
+ <br/><img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="40%"></img>
 
 - 📫 How to reach me **sbchoe21@gmail.com**
 
