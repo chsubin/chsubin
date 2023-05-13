@@ -6,9 +6,9 @@
 
 - 🔭 One of My Projects is [온라인 과일 쇼핑몰](https://github.com/chsubin/springProject)
 - 👯 Another is [호텔예약 프로그램](https://github.com/chsubin?tab=repositories)
-<br/><br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="40%"></img>
+<br/><br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="45%"></img>
 &nbsp;
-&nbsp;<img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="40%"></img>
+&nbsp;<img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="45%"></img>
 - 📝 I regularly write problem solving on [https://blog.naver.com/sbchoe21/223100666316](https://blog.naver.com/sbchoe21/223100666316)
 - 📫 How to reach me **sbchoe21@gmail.com**
 <p align="left">
