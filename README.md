@@ -1,5 +1,4 @@
 
-https://capsule-render.vercel.app/api?
 
 <h1 align="center">Hi 👋, I'm subin.</h1>
 <h3 align="center">It's not thoughts but actions that define you.</h3>
