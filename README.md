@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <th>[온라인 과일 쇼핑몰](https://github.com/chsubin/springProject)<th>
+    <th> [온라인 과일 쇼핑몰](https://github.com/chsubin/springProject) <th>
   </tr>
 </table>
 
