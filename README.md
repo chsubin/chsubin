@@ -7,8 +7,8 @@
 - 👯 Another is [호텔예약 프로그램](https://github.com/chsubin/green2209_JSPProject)
 <table>
   <tr>
-    <td><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="100%"></img></td>
-    <td><img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="100%"></img></td>
+    <td><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" ></img></td>
+    <td><img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif"></img></td>
   </tr>
 </table>
 <br/><br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="45%"></img>
