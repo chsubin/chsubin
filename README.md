@@ -8,7 +8,7 @@
 <br/><br/><img src ="https://user-images.githubusercontent.com/109835921/237867999-a7ce216b-f289-48c3-9e19-bcf42bf36fd4.gif" width="40%"></img>
 &nbsp;
 &nbsp;<img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="40%"></img>
-- 📝 I regularly write articles on [https://blog.naver.com/sbchoe21/223100666316](https://blog.naver.com/sbchoe21/223100666316)
+- 📝 I regularly write problem solving on [https://blog.naver.com/sbchoe21/223100666316](https://blog.naver.com/sbchoe21/223100666316)
 - 📫 How to reach me **sbchoe21@gmail.com**
 <p align="left">
 </p>
