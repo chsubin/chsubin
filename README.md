@@ -9,7 +9,7 @@
 &nbsp;
 &nbsp;<img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="45%"></img>
 - 📝 I regularly write problem solving on [https://blog.naver.com/sbchoe21/223100666316](https://blog.naver.com/sbchoe21/223100666316)
-- 👨‍💻 All of my projects are available at [https://cooing-mouth-8c0.notion.site/Choi-SuBin-9e7157a40424498aadb538b7efc34f78](https://cooing-mouth-8c0.notion.site/Choi-SuBin-9e7157a40424498aadb538b7efc34f78)
+- 👨‍💻 All of my projects are available at [포트폴리오](https://cooing-mouth-8c0.notion.site/Choi-SuBin-9e7157a40424498aadb538b7efc34f78)
 - 📫 How to reach me **sbchoe21@gmail.com**
 <p align="left">
 </p>
